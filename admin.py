@@ -12,7 +12,7 @@ def Space(j):
 
 def findAdmin():
 	f = open("dorks.txt","r");
-	link = raw_input("Enter Site Name: ")
+	link = raw_input("Enter Url: ")
 	print "\n\nAvilable links : \n"
 	while True:
 		sub_link = f.readline()
