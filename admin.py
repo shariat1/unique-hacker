@@ -11,7 +11,7 @@ def Space(j):
 
 
 def findAdmin():
-	f = open("dorks.txt","r");
+	f = open("links.txt","r");
 	link = raw_input("Enter Site Name \n(ex : example.com or www.example.com ): ")
 	print "\n\nAvilable links : \n"
 	while True:
@@ -33,8 +33,8 @@ def findAdmin():
 def Credit():
 	Space(9); print "#################################"
 	Space(9); print "#   √√~ Admin Panel Finder~√√   #"
-	Space(9); print "#                               #"
-	Space(9); print "#        ~UNIQUE HACKER~        #"
+	Space(9); print "#################################"
+	Space(9); print "#    🚩  ~UNIQUE HACKER~   🚩   #"
 	Space(9); print "#################################"
 Credit()
 findAdmin()
