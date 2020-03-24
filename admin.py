@@ -32,7 +32,7 @@ def findAdmin():
 
 def Credit():
 	Space(9); print "#################################"
-	Space(9); print "#   √√~ Admin Panel Finder~√√   #"
+	Space(9); print "#    √√~Admin Panel Finder~√√   #"
 	Space(9); print "#################################"
 	Space(9); print "#    🚩  ~UNIQUE HACKER~   🚩   #"
 	Space(9); print "#################################"
