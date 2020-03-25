@@ -1,5 +1,6 @@
 login.htm
 login.html
+login.php
 login/
 adm/
 admin/
@@ -221,7 +222,6 @@ administrator/account.html
 administrator/account.php
 administrator.php
 administrator.html
-login.html
 modelsearch/login.php
 moderator.php
 moderator.html
